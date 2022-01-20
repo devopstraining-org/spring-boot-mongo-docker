@@ -4,6 +4,6 @@ services:
   springboot:
     image: dockerdevops1234/java-web-application:latest
     ports:
-      - 8080:8080
+      - 8081:8080
 
   
