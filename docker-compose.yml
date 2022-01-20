@@ -2,7 +2,7 @@ version: '3.1'
 
 services:
   springboot:
-    image: dockerhandson/spring-boot-mongo:latest
+    image: dockerdevops1234/java-web-application:latest
     ports:
       - 8080:8080
 
